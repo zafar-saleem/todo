@@ -1,0 +1,11 @@
+{
+    "extends": "standard",
+    "rules": {
+        "semi": [2, "always"],
+        "space-in-parens": 0,
+        "space-before-function-paren": 0,
+        "indent": [2, 2],
+        "no-unused-vars": 0,
+        "padded-blocks": 0
+    }
+}
